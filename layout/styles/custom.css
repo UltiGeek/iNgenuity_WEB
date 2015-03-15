@@ -11,8 +11,14 @@
 
 #mainav li a {
     color: #ffffff;
-    font-weight: 800;
+    /*font-weight: 800;*/
     padding: 9px;
+
+    /*for animation*/
+    moz-transition:all .2s ease-in-out;
+    o-transition:all .2s ease-in-out;
+    transition:all .2s ease-in-out;
+    webkit-transition:all .2s ease-in-out;
 }
 
 #mainav .active a, #mainav a:hover, #mainav li:hover > a {
@@ -30,4 +36,20 @@
     background-color: rgb(202, 12, 43);
     padding: 9px;
     border-radius: 11px;
+
+    /*for animation*/
+    moz-transition:all .2s ease-in-out;
+    o-transition:all .2s ease-in-out;
+    transition:all .2s ease-in-out;
+    webkit-transition:all .2s ease-in-out;
+
+}
+
+/*for animating returning element*/
+.yes{
+
+    moz-transition:all .2s ease-in-out;
+    o-transition:all .2s ease-in-out;
+    transition:all .2s ease-in-out;
+    webkit-transition:all .2s ease-in-out;
 }

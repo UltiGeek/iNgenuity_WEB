@@ -17,7 +17,7 @@
 </div>
 <div class="wrapper row1 force_menu">
     <div id="topbar" class="clear">
-        <nav id="mainav" class="fl_left wow fadeInDown force_menu_nav" data-wow-delay="0.4s" data-wow-duration=".3s">
+        <nav id="mainav" class="fl_left wow fadeInDown force_menu_nav yes" data-wow-delay="0.4s" data-wow-duration=".3s">
             <ul class="clear">
                 <li class="active"><a href="index.html">Introduction</a></li>
                 <?php /* HIDE IT FOR NOW
