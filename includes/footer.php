@@ -17,7 +17,7 @@
         <div class="one_quarter">
             <h6 class="title">Quick Links</h6>
             <ul class="nospace linklist">
-                <li><a href="#">Home Page</a></li>
+                <li><a href="#">Intro</a></li>
                 <li><a href="#">Our Works</a></li>
                 <li><a href="#">Portfolio</a></li>
                 <li><a href="#">Contact Us</a></li>
@@ -60,5 +60,18 @@
 <script src="layout/scripts/jquery.min.js"></script>
 <script src="layout/scripts/jquery.backtotop.js"></script>
 <script src="layout/scripts/jquery.mobilemenu.js"></script>
+<script src="layout/scripts/wow.min.js"></script>
+<script type="text/javascript">
+    wow = new WOW(
+        {
+            boxClass:     'wow',      // animated element css class (default is wow)
+            animateClass: 'animated', // animation css class (default is animated)
+            offset:       0,          // distance to the element when triggering the animation (default is 0)
+            mobile:       true,       // trigger animations on mobile devices (default is true)
+            live:         true        // act on asynchronously loaded content (default is true)
+        }
+    );
+    wow.init();
+</script>
 </body>
 </html>
