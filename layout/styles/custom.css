@@ -1,0 +1,55 @@
+.force_menu{
+    position: absolute;
+    z-index: 999999;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.force_menu_nav ul li a{
+
+    background-color: transparent;
+}
+
+#mainav li a {
+    color: #ffffff;
+    /*font-weight: 800;*/
+    padding: 9px;
+
+    /*for animation*/
+    moz-transition:all .2s ease-in-out;
+    o-transition:all .2s ease-in-out;
+    transition:all .2s ease-in-out;
+    webkit-transition:all .2s ease-in-out;
+}
+
+#mainav .active a, #mainav a:hover, #mainav li:hover > a {
+    color: #ED3238;
+    background-color: inherit;
+}
+
+#mainav {
+    font-size: 1.3em;
+}
+
+
+#mainav .active a, #mainav a:hover, #mainav li:hover > a {
+    color: #FFFFFF;
+    background-color: rgb(202, 12, 43);
+    padding: 9px;
+    border-radius: 11px;
+
+    /*for animation*/
+    moz-transition:all .2s ease-in-out;
+    o-transition:all .2s ease-in-out;
+    transition:all .2s ease-in-out;
+    webkit-transition:all .2s ease-in-out;
+
+}
+
+/*for animating returning element*/
+.yes{
+
+    moz-transition:all .2s ease-in-out;
+    o-transition:all .2s ease-in-out;
+    transition:all .2s ease-in-out;
+    webkit-transition:all .2s ease-in-out;
+}
