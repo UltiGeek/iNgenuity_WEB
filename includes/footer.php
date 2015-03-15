@@ -25,11 +25,9 @@
             </ul>
         </div>
         <div class="one_quarter">
-            <h6 class="title">Locations</h6>
+            <h6 class="title">Head Office</h6>
             <article>
-                <time class="smallfont" datetime="2015-03-13">Friday, 13<sup>th</sup> March 2014</time>
-                <p>Head Office:
-                    <br> Ubungo Plaza, 10th Floor<br>Yards are in: Chanika and Temeke</p>
+                <p>Ubungo Plaza, 10th Floor<br>Yards are in: Chanika and Temeke</p>
             </article>
         </div>
         <div class="one_quarter">
