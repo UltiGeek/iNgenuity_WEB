@@ -6,7 +6,7 @@
         <div class="group">
             <div class="one_half first">
 
-                <figure><a href="#"><img class="borderedbox inspace-10 btmspace-30" src="images/demo/500x650.png" alt=""></a>
+                <figure><a href="#"><img class="borderedbox inspace-10 btmspace-30" src="images/demo/yel.jpg" alt=""></a>
                     <figcaption class="borderedbox inspace-30 bg-white">
                         <h2 class="heading">Geotechnical and Highway Materials Investigations</h2>
                         <p>Ingenuity Works Ltd owned, multi-disciplined organization of licensed engineers,
@@ -27,6 +27,12 @@
                         <footer><a class="btn" href="#">Read More <span class="fa fa-arrow-right"></span></a></footer>
                     </figcaption>
                 </figure>
+
+            </div>
+        </div>
+
+        <div class="group">
+            <div class="first one_half">
                 <figure><a href="#"><img class="borderedbox inspace-10 btmspace-10" src="images/demo/500x250_second.png" alt=""></a>
                     <figcaption class="borderedbox inspace-30 bg-white">
                         <h2 class="heading">Structural Detailing and Preparation of Shop Drawings</h2>
@@ -36,6 +42,7 @@
                     </figcaption>
                 </figure>
             </div>
+            <div class="first one_half"></div>
         </div>
         <!-- / main body -->
         <div class="clear"></div>
