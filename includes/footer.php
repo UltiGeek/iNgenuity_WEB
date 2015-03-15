@@ -4,8 +4,8 @@
             <h6 class="title">Physical Address</h6>
             <address class="btmspace-2">
                 INGENUITY WORKS LTD<br>
-                BOX 70812 &amp;<br>
-                Dare EsSalaam<br>
+                P.O.BOX 70812 ,<br>
+                Dar Es Salaam<br>
                 Tanzania
             </address>
             <ul class="nospace">
