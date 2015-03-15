@@ -1,9 +1,10 @@
 <body id="top">
 <div class="wrapper row0">
     <header id="header" class="clear">
-        <div id="logo" class="fl_left">
-            <h1><a href="index.html"><img src="images/logo.fw.png">Ingenuity Works</a></h1>
+        <div id="logo" class="fl_left wow fadeInRight" data-wow-duration=".3s">
+            <h1><a href="index.php"><img src="images/logo.fw.png">Ingenuity Works</a></h1>
         </div>
+        <?php /*
         <div class="fl_right">
             <ul class="nospace inline">
                 <li><a href="#">Link 1</a></li>
@@ -11,11 +12,12 @@
                 <li><a href="#">Link 3</a></li>
             </ul>
         </div>
+ */?>
     </header>
 </div>
 <div class="wrapper row1">
     <div id="topbar" class="clear">
-        <nav id="mainav" class="fl_left">
+        <nav id="mainav" class="fl_left wow fadeInDown" data-wow-delay="0.4s" data-wow-duration=".3s">
             <ul class="clear">
                 <li class="active"><a href="index.html">Home</a></li>
                 <li><a class="drop" href="#">Pages</a>
