@@ -2,15 +2,16 @@
     <footer id="footer" class="clear">
         <div class="one_quarter first">
             <h6 class="title">Physical Address</h6>
-            <address class="btmspace-15">
+            <address class="btmspace-2">
                 INGENUITY WORKS LTD<br>
                 BOX 70812 &amp;<br>
                 Dare EsSalaam<br>
                 Tanzania
             </address>
             <ul class="nospace">
-                <li class="btmspace-10"><span class="fa fa-phone"></span> +255682444324<br>+2550785219004</li>
-                <li><span class="fa fa-envelope-o"></span>Ingenuityworksltd@gmail.com</li>
+                <li class="btmspace-1"><span class="fa fa-phone"></span> +255 (682) 444 324</li>
+                <li class="btmspace-1"><span class="fa fa-phone"></span> +255 (078) 521 9004</li>
+                <li style="font-size: 13px;"><span class="fa fa-envelope-o"></span> Ingenuityworksltd@gmail.com</li>
             </ul>
         </div>
         <div class="one_quarter">
@@ -24,9 +25,8 @@
             </ul>
         </div>
         <div class="one_quarter">
-            <h6 class="title">From The Blog</h6>
+            <h6 class="title">Locations</h6>
             <article>
-                <h2 class="nospace"><a href="#">Locations</a></h2>
                 <time class="smallfont" datetime="2015-03-13">Friday, 13<sup>th</sup> March 2014</time>
                 <p>Head Office:
                     <br> Ubungo Plaza, 10th Floor<br>Yards are in: Chanika and Temeke</p>
