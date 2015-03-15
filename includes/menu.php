@@ -15,11 +15,12 @@
  */?>
     </header>
 </div>
-<div class="wrapper row1">
+<div class="wrapper row1 force_menu">
     <div id="topbar" class="clear">
-        <nav id="mainav" class="fl_left wow fadeInDown" data-wow-delay="0.4s" data-wow-duration=".3s">
+        <nav id="mainav" class="fl_left wow fadeInDown force_menu_nav" data-wow-delay="0.4s" data-wow-duration=".3s">
             <ul class="clear">
-                <li class="active"><a href="index.html">Home</a></li>
+                <li class="active"><a href="index.html">Introduction</a></li>
+                <?php /* HIDE IT FOR NOW
                 <li><a class="drop" href="#">Pages</a>
                     <ul>
                         <li><a href="pages/gallery.html">Gallery</a></li>
@@ -29,6 +30,7 @@
                         <li><a href="pages/basic-grid.html">Basic Grid</a></li>
                     </ul>
                 </li>
+
                 <li><a class="drop" href="#">Dropdown</a>
                     <ul>
                         <li><a href="#">Level 2</a></li>
@@ -40,10 +42,12 @@
                         </li>
                     </ul>
                 </li>
-                <li><a href="#">Link Text</a></li>
-                <li><a href="#">Link Text</a></li>
+                */?>
+                <li><a href="#">Our Works</a></li>
+                <li><a href="#">Contact</a></li>
             </ul>
         </nav>
+        <?php /* NO ENOUGH CONTENT TO SEARCH :D
         <div id="search" class="fl_right">
             <form class="clear" method="post" action="#">
                 <fieldset>
@@ -53,6 +57,6 @@
                 </fieldset>
             </form>
         </div>
-
+        */?>
     </div>
 </div>
