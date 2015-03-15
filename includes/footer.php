@@ -18,8 +18,7 @@
             <h6 class="title">Quick Links</h6>
             <ul class="nospace linklist">
                 <li><a href="#">Home Page</a></li>
-                <li><a href="#">Blog</a></li>
-                <li><a href="#">Gallery</a></li>
+                <li><a href="#">Our Works</a></li>
                 <li><a href="#">Portfolio</a></li>
                 <li><a href="#">Contact Us</a></li>
             </ul>
@@ -48,7 +47,10 @@
 <div class="wrapper row6">
     <div id="copyright" class="clear">
 
-        <p class="fl_left">Copyright &copy; 2015 - All Rights Reserved - <a href="#">www.Ingenuityworks.com</a></p>
+        <p class="fl_left"><?php
+            $date = new DateTime();
+            echo "&copy;".$date->format('Y')." <strong>Ingenuity Works</strong> All rights reserved<b> a Yoteyote experiment ,  Cute design* </b>";
+            ?><a href="#">www.Ingenuityworks.com</a>
 
     </div>
 </div>
